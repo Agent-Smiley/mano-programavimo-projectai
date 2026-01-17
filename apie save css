@@ -1,0 +1,15 @@
+body{
+  font-family: system-ui;
+  background: #ff0000;
+  color: black;
+  text-align: center;
+ 
+}
+
+.white {
+  color: #ffffff
+}
+
+.important {
+  font-family: "Times New Roman"
+}
