@@ -1,0 +1,19 @@
+<div style="text-align: center">
+  <h1>Labas, as nedas</h1>
+  <h2>Kaip sekasi?</h2>
+  <h5>Cia mano prisiminimas apie html</h5>
+  <p><b>As dabar mokinuos html, bet cia rasant labiau treniruoju rasyma neziurint i klaviatura<br>Man tiesiog reikia pasimokinti rastyi visus lauztinius tuos darykus su h1 ir taip toliau vidui</b></p>
+  <h4>Kas galejo pagalvoti kad h4 yra tokio pacio dydzio kaip p su bold</h4>
+  <p><b>Ai jo jugi as turiu apie save rasyti:
+    
+
+  <ul style="display: table; margin: 0 auto;">
+    <li>Man patinka programuoti</li>
+    <li>Man patinka laipioti</li>
+    <li>Ir aisku dar gamint</li>
+    </ul>
+    
+    <p> nu tikiuos kad patiko mano projektelis</b></p>
+</div>
+      
+      
