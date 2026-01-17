@@ -1,8 +1,12 @@
-<div style="text-align: center">
+<!--<div style="text-align: center"> -->
+<div class="important white" >
   <h1>Labas, as nedas</h1>
+</div>
   <h2>Kaip sekasi?</h2>
   <h5>Cia mano prisiminimas apie html</h5>
+<div class="white">
   <p><b>As dabar mokinuos html, bet cia rasant labiau treniruoju rasyma neziurint i klaviatura<br>Man tiesiog reikia pasimokinti rastyi visus lauztinius tuos darykus su h1 ir taip toliau vidui</b></p>
+</div>
   <h4>Kas galejo pagalvoti kad h4 yra tokio pacio dydzio kaip p su bold</h4>
   <p><b>Ai jo jugi as turiu apie save rasyti:
     
@@ -15,5 +19,14 @@
     
     <p> nu tikiuos kad patiko mano projektelis</b></p>
 </div>
-      
+<img src="https://raw.githubusercontent.com/Agent-Smiley/mano-programavimo-projectai/main/Mako_copper_setup_regular (1).webp"
+     alt="Mano nuotrauka"
+     width="500"
+>
+<div>
+  <p><b>Cia albumas:</b></p>
+  
+<img src="https://raw.githubusercontent.com/Agent-Smiley/mano-programavimo-projectai/main/Stan%2527s_Scrubber_Setup.webp"
+     alt="Albumo 1"
+     height="500"
       
